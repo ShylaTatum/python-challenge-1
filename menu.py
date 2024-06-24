@@ -223,6 +223,5 @@ total_str = "Total Amount Due:"
 total_num_space = 28 - len(total_str)
 total_space = " " * total_num_space
 print(f"{total_str}{total_space}{total:.2f}")
-#print(f"{total:.2f}")
-# print("Thanks for enjoying our food!!")
+
 
